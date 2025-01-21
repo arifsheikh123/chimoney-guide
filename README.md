@@ -1,4 +1,4 @@
-# chimoney-guide
+# Chimoney-guide
 Title: A Chimoney Guide to Payouts for Digital Marketplaces
 1. Introduction
 Overview of Digital Marketplaces: Explain what digital marketplaces are (e.g., e-commerce platforms, gig economy platforms).
